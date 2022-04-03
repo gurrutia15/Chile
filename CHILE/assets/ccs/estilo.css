@@ -4,8 +4,6 @@ html{
 body{
     font-family: 'Roboto', sans-serif;
     color:#ffffff;
-    opacity:100;
-
 }
 
 
@@ -32,4 +30,24 @@ body{
     background-color: black;
     color: #ffffff;  
     font-weight: 300px;
+}
+
+#destacados{
+    background-color: black;
+    color: #ffffff;  
+    font-weight: 300px;
+}
+
+.foto-card {
+    size: cover;
+   
+}
+#contacto{
+    background-color: black;
+    color: #ffffff;  
+
+}
+.contact-container{
+    padding-left: 200px;
+    padding-right: 200px;
 }
