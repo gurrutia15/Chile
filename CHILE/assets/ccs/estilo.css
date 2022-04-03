@@ -30,3 +30,9 @@ body{
 .nav-link{
     color: #ffffff;
 }
+
+#descripcion{
+    background-color: black;
+    color: #ffffff;  
+    font-weight: 500px;
+}
