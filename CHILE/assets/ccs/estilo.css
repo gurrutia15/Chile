@@ -1,0 +1,32 @@
+html{
+    scroll-behavior: auto !important;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    color:#ffffff;
+    opacity:100;
+
+}
+
+
+
+.menu{
+    font-size: 18px;
+    font-weight: 400px;
+}
+
+.listado{
+    padding-left: 500px;
+    justify-content: space-between;
+    color: #ffffff;
+    
+}
+.fotos{
+    height: 60%;
+    width: auto;
+    object-fit: cover;
+
+}
+.nav-link{
+    color: #ffffff;
+}

@@ -1,0 +1,56 @@
+html{
+    scroll-behavior: auto !important;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    color:#ffffff;
+    opacity:100;
+}
+
+
+.menu{
+    font-size: 18px;
+}
+
+.listado{
+    padding-left: 400px;
+    color: #ffffff;  
+    font-weight: 300px;
+  
+}
+
+#descripcion{
+    background-color: black;
+    color: #ffffff;  
+    font-weight: 500px;
+}
+
+#destacados{
+    background-color: black;
+    color: #ffffff;  
+    font-weight: 500px;
+}
+
+.foto-card {
+    size: cover;
+   
+}
+#contacto{
+    background-color: black;
+    color: #ffffff;  
+
+}
+.contact-container{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+#footer{
+    color: #ffffff;
+}
+#footer a{
+    color: #ffffff;
+    text-decoration: none;
+    background-image: none;
+
+}
