@@ -4,6 +4,7 @@ html{
 body{
     font-family: 'Roboto', sans-serif;
     color:#ffffff;
+    background-color: #000000;
 }
 
 
@@ -19,12 +20,11 @@ body{
     color: #ffffff;
     
 }
-.fotos{
-    height: 60%;
-    width: auto;
-    object-fit: cover;
+.foto1{
+        height: 900px;
+    }
 
-}
+
 
 #descripcion{
     background-color: black;
