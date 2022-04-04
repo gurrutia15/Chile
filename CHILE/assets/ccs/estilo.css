@@ -40,7 +40,7 @@ body{
 
 .foto-card {
     size: cover;
-   
+    height: 200px;
 }
 #contacto{
     background-color: black;

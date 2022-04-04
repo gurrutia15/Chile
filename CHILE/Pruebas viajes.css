@@ -4,6 +4,7 @@ html{
 body{
     font-family: 'Roboto', sans-serif;
     color:#ffffff;
+    background-color: #000000;
 }
 
 
@@ -32,6 +33,7 @@ body{
 
 .foto-card {
     size: cover;
+    height: 200px;
    
 }
 #contacto{
